@@ -1,0 +1,32 @@
+{
+  "name": "dreboque",
+  "version": "1.0.0",
+  "description": "SPA",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "clsx": "latest",
+    "next": "latest",
+    "nextjs-sitemap-generator": "^1.0.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulorodrigues99/dreboque.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulorodrigues99/dreboque/issues"
+  },
+  "homepage": "https://github.com/paulorodrigues99/dreboque#readme"
+}
