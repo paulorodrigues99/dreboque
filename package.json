@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@material-ui/core": "latest",
+    "@zeit/next-sass": "^1.0.1",
     "clsx": "latest",
     "next": "latest",
     "nextjs-sitemap-generator": "^1.0.0",
